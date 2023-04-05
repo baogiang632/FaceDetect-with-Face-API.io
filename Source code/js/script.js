@@ -8,7 +8,7 @@ Promise.all([
 ]).then(startVideo) // change between offline video and webcam record
 
 function startVideo() {
-  video.src = 'video1.mp4' // change video name here
+  video.src = 'video2.mp4' // change video name here
 }
 
 function startVideoWebcam() {
